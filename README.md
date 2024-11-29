@@ -1,2 +1,2 @@
 # hangman
-a basic hangman in cpp
+a basic hangman in zig
